@@ -1,6 +1,6 @@
 ;author ziceck
 ;date: 26/06/2017
-;Code to print hello world with assembly.
+;Code for hello world with assembly MASM.
 
 .286
 ;stack segment
