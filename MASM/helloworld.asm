@@ -10,7 +10,7 @@ spila ENDS
 
 ; data segment
 sdatos SEGMENT
-	hello DB 'Hello Wolrd ','$'
+	hello DB 'Hello World ','$'
 sdatos ENDS
 
 ; code segment
