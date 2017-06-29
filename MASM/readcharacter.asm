@@ -14,7 +14,7 @@ sdatos SEGMENT
 	msg DB 'Type a character: ','$'
 	msg2 DB 'You typed this character: ','$'
 	character DB ?,'$'
-	lineBreak DB 0DH,0AH,'$'
+	lineBreak DB 0AH,'$'
 sdatos ENDS
 
 ; code segment
